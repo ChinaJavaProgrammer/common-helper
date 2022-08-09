@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.base.util.springbootbaseconfigration.MyRequestBodyConfig,com.base.util.pagehelper.PageHelperAspectJConfigration,com.base.util.log.LogConfiguration
